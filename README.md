@@ -1,2 +1,2 @@
-# BanGePingGup
+# BanGePingGuo
 my first repository
